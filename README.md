@@ -3,4 +3,4 @@
 
 --
 
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1wRpEv5CW7G1ZBryMbhZBqbDWNaC57EP7q08eChA-trs/edit?usp=sharin
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1wRpEv5CW7G1ZBryMbhZBqbDWNaC57EP7q08eChA-trs/edit?usp=sharin)
